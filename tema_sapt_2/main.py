@@ -11,6 +11,8 @@ for i in my_list:
     if i % 3 == 0:
         list_3.append(i)
 
+
+#just some comment
 if __name__ == '__main__':
     print("Original list: ")
     print(my_list)
